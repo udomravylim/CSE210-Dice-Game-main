@@ -1,0 +1,15 @@
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Unit02/bin/Debug/net6.0/Unit02
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Unit02/bin/Debug/net6.0/Unit02.deps.json
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Unit02/bin/Debug/net6.0/Unit02.runtimeconfig.json
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Unit02/bin/Debug/net6.0/Unit02.dll
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Unit02/bin/Debug/net6.0/Unit02.pdb
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Unit02/obj/Debug/net6.0/Unit02.csproj.AssemblyReference.cache
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Unit02/obj/Debug/net6.0/Unit02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Unit02/obj/Debug/net6.0/Unit02.AssemblyInfoInputs.cache
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Unit02/obj/Debug/net6.0/Unit02.AssemblyInfo.cs
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Unit02/obj/Debug/net6.0/Unit02.csproj.CoreCompileInputs.cache
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Unit02/obj/Debug/net6.0/Unit02.dll
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Unit02/obj/Debug/net6.0/refint/Unit02.dll
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Unit02/obj/Debug/net6.0/Unit02.pdb
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Unit02/obj/Debug/net6.0/Unit02.genruntimeconfig.cache
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Unit02/obj/Debug/net6.0/ref/Unit02.dll
